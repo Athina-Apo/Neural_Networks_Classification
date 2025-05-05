@@ -1,2 +1,2 @@
 # Neural_Networks_Classification
-Multiclass classification on Cifar-10 dataset
+Creation of MLP Neural Network from Scratch and CNN Neural Network with PyTorch for Classification on CIFAR-10, and Comparison of Their Performance with k-Nearest Neighbor and k-Means Methods. Assignment for the Course Neural Networks from the Computer Science Department of Aristotle University of Thessaloniki (AUTH).
